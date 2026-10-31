@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # SemanticKernel.DashScope
 
 Make DashScope work with Semantic Kernel and Kernel Memory.
